@@ -1,0 +1,24 @@
+﻿  Source.c
+C:\Users\kaift\source\repos\repeatProject2022\repeatProject2022\Source.c(87,39): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+C:\Users\kaift\source\repos\repeatProject2022\repeatProject2022\Source.c(87,29): warning C4024: 'search': different types for formal and actual parameter 2
+C:\Users\kaift\source\repos\repeatProject2022\repeatProject2022\Source.c(49,9): warning C4101: 'newNode': unreferenced local variable
+C:\Users\kaift\source\repos\repeatProject2022\repeatProject2022\Source.c(57,6): warning C4101: 'location': unreferenced local variable
+C:\Users\kaift\source\repos\repeatProject2022\repeatProject2022\Source.c(50,9): warning C4101: 'temp': unreferenced local variable
+C:\Users\kaift\source\repos\repeatProject2022\repeatProject2022\Source.c(169,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\kaift\source\repos\repeatProject2022\repeatProject2022\Source.c(169,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\kaift\source\repos\repeatProject2022\repeatProject2022\Source.c(169,10): message : the missing variadic argument 2 is required by format string '%s'
+C:\Users\kaift\source\repos\repeatProject2022\repeatProject2022\Source.c(169,10): message : this argument is used as a buffer size
+C:\Users\kaift\source\repos\repeatProject2022\repeatProject2022\Source.c(172,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\kaift\source\repos\repeatProject2022\repeatProject2022\Source.c(172,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\kaift\source\repos\repeatProject2022\repeatProject2022\Source.c(172,10): message : the missing variadic argument 2 is required by format string '%s'
+C:\Users\kaift\source\repos\repeatProject2022\repeatProject2022\Source.c(172,10): message : this argument is used as a buffer size
+C:\Users\kaift\source\repos\repeatProject2022\repeatProject2022\Source.c(181,22): warning C4474: 'scanf_s' : too many arguments passed for format string
+C:\Users\kaift\source\repos\repeatProject2022\repeatProject2022\Source.c(181,22): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\kaift\source\repos\repeatProject2022\repeatProject2022\Source.c(184,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\kaift\source\repos\repeatProject2022\repeatProject2022\Source.c(184,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\kaift\source\repos\repeatProject2022\repeatProject2022\Source.c(184,10): message : the missing variadic argument 2 is required by format string '%s'
+C:\Users\kaift\source\repos\repeatProject2022\repeatProject2022\Source.c(184,10): message : this argument is used as a buffer size
+C:\Users\kaift\source\repos\repeatProject2022\repeatProject2022\Source.c(187,22): warning C4474: 'scanf_s' : too many arguments passed for format string
+C:\Users\kaift\source\repos\repeatProject2022\repeatProject2022\Source.c(187,22): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\kaift\source\repos\repeatProject2022\repeatProject2022\Source.c(253): warning C4716: 'search': must return a value
+  repeatProject2022.vcxproj -> C:\Users\kaift\source\repos\repeatProject2022\Debug\repeatProject2022.exe
